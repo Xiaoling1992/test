@@ -1,0 +1,29 @@
+[PASS]: test_1
+[Tue Apr  2 15:35:52 EDT 2019] 1 of 1 tests passed
+[PASS]: test_2
+[Tue Apr  2 15:35:52 EDT 2019] 1 of 1 tests passed
+[PASS]: test_3
+[Tue Apr  2 15:37:38 EDT 2019] 1 of 1 tests passed
+Rading products.csv. This line is given up because it doesn't contain 4 segments: 3, ABC, 98
+
+Could not convert data to an integer
+[PASS]: your-own-test_1
+[Tue Apr  2 15:37:38 EDT 2019] 1 of 1 tests passed
+[PASS]: your-own-test_2
+[Tue Apr  2 15:37:38 EDT 2019] 1 of 1 tests passed
+[PASS]: your-own-test_3
+[Tue Apr  2 15:37:38 EDT 2019] 1 of 1 tests passed
+[PASS]: your-own-test_4
+[Tue Apr  2 15:37:38 EDT 2019] 1 of 1 tests passed
+Repeated order recording: 1,49302,1,1
+
+Repeated order recording: 1,10246,2,1
+
+Repeated order recording: 1,3,3,0
+
+Repeated order recording: 1,4,4,1
+
+[PASS]: your-own-test_5
+[Tue Apr  2 15:37:38 EDT 2019] 1 of 1 tests passed
+[Tue Apr  2 15:37:38 EDT 2019] 8 of 8 tests passed
+
